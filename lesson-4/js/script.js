@@ -12,10 +12,10 @@ for ( let i=1; i<=colorsCount; i++ ) {
     console.log( colorName );
     shuffledColor. addColor = colorName;
 console.log(shuffledColor);
- 
-    return colorsCount;
-
+    
 }
+40
+
 }
 
 
