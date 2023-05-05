@@ -14,7 +14,7 @@ for ( let i=1; i<=colorsCount; i++ ) {
 console.log(shuffledColor);
     
 }
-40
+
 
 }
 
